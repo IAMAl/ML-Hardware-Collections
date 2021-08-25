@@ -55,6 +55,15 @@ News Collection for Machine Learning Hardware
     - Cerebras Systems
         - "Patents Assigned to Cerebras Systems Inc."
         https://patents.justia.com/assignee/cerebras-systems-inc
+        - "CEREBRAS SHIFTS ARCHITECTURE TO MEET MASSIVE AI/ML MODELS"
+        August 24, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/08/24/cerebras-shifts-architecture-to-meet-massive-ai-ml-models/
+        - "DRUG DISCOVERY A SWEET SPOT FOR CEREBRAS CS-2"
+        August 18, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/08/18/drug-discovery-a-sweet-spot-for-cerebras-cs-2/
+        - "EPCC KICKING TIRES ON NEW CS-1 AI SYSTEM"
+        June 18, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/06/18/epcc-kicking-tires-on-new-cs-1-ai-system/
         - "NEOCORTEX SUPERCOMPUTER TO PUT CEREBRAS CS-1 TO THE TEST"
         March 30, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/03/30/neocortex-supercomputer-to-put-cerebras-cs-1-to-the-test/
@@ -116,6 +125,9 @@ News Collection for Machine Learning Hardware
     - Graphcore, Ltd.
         - "Patents Assigned to Graphcore Limited"
         https://patents.justia.com/assignee/graphcore-limited
+        - "GRAPHCORE RIGHT ON THE MONEY IN FIRST MLPERF APPEARANCE"
+        June 30, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/06/30/graphcore-right-on-the-money-in-first-mlperf-appearance/
         - "GRAPHCORE SHOWS GAN GAINS FOR CERN"
         March 24, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/03/24/graphcore-shows-gan-gains-for-cern/
@@ -313,6 +325,12 @@ News Collection for Machine Learning Hardware
 
     - SambaNova
     https://sambanova.ai/
+        - "ARGONNE CUTS THROUGH THE NOISE WITH SAMBANOVA SYSTEM"
+        July 6, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/07/06/argonne-cuts-through-the-noise-with-sambanova-system/
+        - "SambaNova CEO: Pre- to Post-AI Transition Will Be ‘Bigger Than the Internet’"
+        Sally Ward-Foxton  06.10.2021
+        https://www.eetimes.com/sambanova-ceo-pre-to-post-ai-transition-will-be-bigger-than-the-internet/
         - "WITH $1 BILLION IN HAND, WHAT’S NEXT FOR SAMBANOVA?"
         April 13, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/04/13/with-1-billion-in-hand-whats-next-for-sambanova/
@@ -401,6 +419,9 @@ News Collection for Machine Learning Hardware
 
     - Untender AI
     https://untether.ai/
+        - "FURTHER FUNDING FLOWS TO CANADIAN AI INFERENCE HARDWARE"
+        July 20, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/07/20/further-funding-flows-to-canadian-ai-inference-hardware/
         - "Startup Taps AI to Monitor Chips"
         Rick Merritt, 04.02.19
         https://www.eetimes.com/document.asp?doc_id=1334514
@@ -497,6 +518,9 @@ News Collection for Machine Learning Hardware
         https://www.eetimes.com/author.asp?section_id=36&doc_id=1329087
 
     - Baidu
+        - "A LOOK AT BAIDU’S INDUSTRIAL-SCALE GPU TRAINING ARCHITECTURE"
+        June 25, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-scale-gpu-training-architecture/
         - "Baidu Accelerator Rises in AI"
         Rick Merritt, 07.06.18
         https://www.eetimes.com/document.asp?doc_id=1333449
@@ -548,12 +572,28 @@ News Collection for Machine Learning Hardware
         https://www.fujitsu.com/global/Images/fujitsu-hpc-and-ai-processors.pdf
 
     - Google
+        - "GOOGLE CLOUD MAINSTREAMS AI WITH VERTEX PLATFORM"
+        May 20, 2021 Jeffrey Burt
+        https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/
+
     > Edge TPU
         - "Google unveils new tools to bolster AI hardware development"
         James Vincent Mar 6, 2019
         https://www.theverge.com/circuitbreaker/2019/3/6/18253106/google-ai-developer-new-tools-dev-board-usb-accelerator-camera-coral
 
     > TPU
+        - "WHAT WE’RE GETTING WRONG ABOUT EFFICIENT AI TRAINING AT SCALE"
+        July 9, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/07/09/what-were-getting-wrong-about-efficient-ai-training-at-scale/
+        - "GOOGLE CHIPS AWAY AT PROBLEMS AT “MEGA-BATCH” SCALE"
+        August 9, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/08/09/google-chips-away-at-problems-at-mega-batch-scale/
+
+        > v4
+        - "GOOGLE HINTS ABOUT ITS HOMEGROWN TPUV4 AI ENGINES"
+        May 21, 2021 Timothy Prickett Morgan
+        https://www.nextplatform.com/2021/05/21/google-hints-about-its-homegrown-tpuv4-ai-engines/
+
         > v3
         - "Tearing Apart Google’s TPU 3.0 AI Coprocessor"
         May 10, 2018 Paul Teich
@@ -792,6 +832,9 @@ News Collection for Machine Learning Hardware
 
 
 ### Neuromorphic Computing
+    "NEUROMORPHIC COMPUTING INNOVATION FAVORS THE EDGE"
+    May 18, 2021 Nicole Hemsoth
+    https://www.nextplatform.com/2021/05/18/neuromorphic-computing-innovation-favors-the-edge/
     - Baidu
         - "Baidu Backs Neuromorphic IC Developer"
         EE Times, 11.16.18 
@@ -923,6 +966,22 @@ News Collection for Machine Learning Hardware
         - "18 Views of ISSCC"
         Rick Merritt, 02.26.15
         https://www.eetimes.com/document.asp?doc_id=1325829
+
+
+### MLPerf
+    - 2021
+        - "WHY THE MLPERF BENCHMARK IS GOOD FOR AI, AND GOOD FOR YOU"
+        August 10, 2021 Timothy Prickett Morgan
+        https://www.nextplatform.com/2021/08/10/why-the-mlperf-benchmark-is-good-for-ai-and-good-for-you/
+    - 2019
+        - "MLPERF INFERENCE RESULTS OFFER GLIMPSE INTO AI CHIP PERFORMANCE"
+        November 6, 2019 Nicole Hemsoth
+        https://www.nextplatform.com/2019/11/06/mlperf-inference-results-offer-glimpse-into-ai-chip-performance/
+    - 2018
+        - "EADING BETWEEN THE MLPERF LINES"
+        December 14, 2018 Nicole Hemsoth
+        https://www.nextplatform.com/2018/12/14/reading-between-the-mlperf-lines/
+
 
 
 ### Linley Processor Conference
