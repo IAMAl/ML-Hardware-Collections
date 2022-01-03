@@ -563,7 +563,7 @@ News Collection for Machine Learning Hardware
         https://www.eetimes.com/document.asp?doc_id=1333920
 
     - Fujitsu
-    > DLU
+    > <CLOSED> DLU
         - "Fujitsu Bets On Deep Learning And HPC Divergence"
         August 9, 2017 Timothy Prickett Morgan
         https://www.nextplatform.com/2017/08/09/fujitsu-bets-deep-leaning-hpc-divergence
@@ -660,7 +660,7 @@ News Collection for Machine Learning Hardware
         October 25, 2017 Pankaj Goyal
         https://www.nextplatform.com/2017/10/25/hpe-demystifies-deep-learning-faster-intelligence
 
-    - Huweaei (HiSilicon)
+    - Huwaei (HiSilicon)
     > Ascend
         - "Activating AI Power with the Ascend Chipset"
         Sally GaoPosted on February 5, 2019
