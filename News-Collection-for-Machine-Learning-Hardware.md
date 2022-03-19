@@ -65,6 +65,21 @@ News Collection for Machine Learning Hardware
     - Cerebras Systems
         - "Patents Assigned to Cerebras Systems Inc."
         https://patents.justia.com/assignee/cerebras-systems-inc
+        - "Cerebras brings wafer-size AI chips to medical data analysis"
+        14 Mar 2022
+        https://www.theregister.com/2022/03/14/cerebras_ai_chips/
+        - "Cerebras Systems Launches Software Development Kit for Wafer-Scale Applications"
+        November 16, 2021
+        https://insidehpc.com/2021/11/cerebras-systems-launches-software-development-kit-for-wafer-scale-applications/
+        - "Cerebras Performs Extreme Training"
+        September 21, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6363&year=2021&tag=3
+        - "AI chip startup Cerebras Systems raises $250 million in funding"
+        November 11, 2021
+        https://www.reuters.com/technology/ai-chip-startup-cerebras-systems-raises-250-million-funding-2021-11-10/
+        - "Cerebras Brings Its Wafer-Scale Engine AI System to the Cloud"
+        September 16, 2021
+        https://www.hpcwire.com/2021/09/16/cerebras-wafer-scale-engine-ai-system-is-now-available-in-the-cloud/
         - "CEREBRAS SHIFTS ARCHITECTURE TO MEET MASSIVE AI/ML MODELS"
         August 24, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/08/24/cerebras-shifts-architecture-to-meet-massive-ai-ml-models/
@@ -77,6 +92,9 @@ News Collection for Machine Learning Hardware
         - "NEOCORTEX SUPERCOMPUTER TO PUT CEREBRAS CS-1 TO THE TEST"
         March 30, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/03/30/neocortex-supercomputer-to-put-cerebras-cs-1-to-the-test/
+        - "Cerebras Doubles Down With WSE2"
+        April 27, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6300&year=2021&tag=3
         - "ONE GIANT LEAP FOR WAFERSCALE AI"
         April 20, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/04/20/one-giant-leap-for-waferscale-ai/
@@ -86,6 +104,9 @@ News Collection for Machine Learning Hardware
         - "IS THERE A WAFER-SCALE REVOLUTION ON THE HORIZON?"
         October 23, 2020 Nicole Hemsoth
         https://www.nextplatform.com/2020/10/23/is-there-a-wafer-scale-revolution-on-the-horizon/
+        - "Cerebras CS-1 Wafer-Scale AI System at SC19"
+        December 1, 2019
+        https://www.servethehome.com/cerebras-cs-1-wafer-scale-ai-system-at-sc19/
         - "Cerebras deploys the CS-1, the Industry’s Fastest AI Computer, at Argonne National Lab"
         Andrew Feldman, November 19, 2019
         https://www.cerebras.net/cerebras-deploys-the-cs-1-the-industrys-fastest-ai-computer-at-argonne-national-lab/
@@ -112,8 +133,17 @@ News Collection for Machine Learning Hardware
     
     - DeepVision
     https://deepvision.io
+        - "Deep Vision Optimizes AI Data Flow"
+        March 9, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6280&year=2021&tag=3
         - "AI Startup Deep Vision Powers AI Innovation at the Edge"
         https://www.design-reuse.com/news/49035/ai-startup-deep-vision.html
+
+    - Enflame
+    https://www.enflame-tech.com
+        - "Enflame Stokes AI Acceleration"
+        February 16, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6271&year=2021&tag=3
     
     - eSilicon
     https://www.esilicon.com
@@ -371,6 +401,9 @@ News Collection for Machine Learning Hardware
     https://www.syntiant.com/
         - "Patents Assigned to Syntiant"
         https://patents.justia.com/assignee/syntiant
+        - "Syntiant Grows Into Computer Vision"
+        November 9, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6379&year=2021&tag=3
         - "Syntiant: Business as Usual in the AI Chip Industry"
         https://www.eetimes.com/syntiant-business-as-usual-in-the-ai-chip-industry/
         - "Syntiant NDP101 Microprocessor Receives Linley Group's Analysts' Choice Award"
@@ -412,6 +445,11 @@ News Collection for Machine Learning Hardware
         - "Tenstorrent Achieves First-Pass Silicon Success for High-Performance AI Processor SoC Using Synopsys’ DesignWare IP Portfolio"
         July 15, 2020
         https://www.hpcwire.com/off-the-wire/tenstorrent-achieves-first-pass-silicon-success-for-high-performance-ai-processor-soc-using-synopsys-broad-designware-ip-portfolio/
+
+    - Tesla Motor
+        - "Tesla D1 Tackles AI Training"
+        September 21, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6362&year=2021&tag=3
 
     - ThinCI, Inc.
     https://thinci.com/
@@ -980,6 +1018,9 @@ News Collection for Machine Learning Hardware
 
 ### MLPerf
     - 2021
+        - "MLPerf Gets Tiny"
+        August 3, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6344&year=2021&tag=3
         - "WHY THE MLPERF BENCHMARK IS GOOD FOR AI, AND GOOD FOR YOU"
         August 10, 2021 Timothy Prickett Morgan
         https://www.nextplatform.com/2021/08/10/why-the-mlperf-benchmark-is-good-for-ai-and-good-for-you/
@@ -1014,6 +1055,10 @@ News Collection for Machine Learning Hardware
 
 
 ### Research Chips
+    - "Loihi 2 Advances Spiking R&D"
+    October 19, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6372&year=2021&tag=3
+
     - "Intel’s Exascale Dataflow Engine Drops X86 And Von Neumann"
     August 30, 2018 Timothy Prickett Morgan
     https://www.nextplatform.com/2018/08/30/intels-exascale-dataflow-engine-drops-x86-and-von-neuman
@@ -1061,6 +1106,34 @@ News Collection for Machine Learning Hardware
 
 
 ### Linley Newsletter
+    - "Syntiant Grows Into Computer Vision"
+    November 9, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6379&year=2021&tag=3
+
+    - "Tesla D1 Tackles AI Training"
+    September 21, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6362&year=2021&tag=3
+
+    - "Cerebras Performs Extreme Training"
+    September 21, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6363&year=2021&tag=3
+
+    - "Loihi 2 Advances Spiking R&D"
+    October 19, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6372&year=2021&tag=3
+
+    - "Cerebras Doubles Down With WSE2"
+    April 27, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6300&year=2021&tag=3
+
+    - "Deep Vision Optimizes AI Data Flow"
+    March 9, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6280&year=2021&tag=3
+
+    - "Enflame Stokes AI Acceleration"
+    February 16, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6271&year=2021&tag=3
+
     - "Ceva SensPro Fuses AI and Vector DSP"
     April 21, 2020, Mike Demler
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6152
@@ -1128,6 +1201,10 @@ News Collection for Machine Learning Hardware
     - "Cerebras Breaks the Reticle Barrier"
     September 3, 2019, Mike Demler
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6062&year=2019&tag=3
+
+    - "MLPerf Gets Tiny"
+    August 3, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6344&year=2021&tag=3
 
     - "An Inside Look at AI Accelerators"
     August 6, 2019, Linley Gwennap
