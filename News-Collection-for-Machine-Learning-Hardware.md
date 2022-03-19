@@ -888,6 +888,36 @@ News Collection for Machine Learning Hardware
         EE Times, 11.16.18 
         https://www.eetimes.com/document.asp?doc_id=1333983
 
+    - BrainChip Holdings Ltd.
+    https://www.brainchipinc.com/
+        - "BrainChip Achieves Full Commercialization of Its AKD1000 AIoT Chip with Availability of Mini PCIe Boards in High Volume"
+        January 18, 2022
+        https://www.edge-ai-vision.com/2022/01/brainchip-achieves-full-commercialization-of-its-akd1000-aiot-chip-with-availability-of-mini-pcie-boards-in-high-volume/
+        - "BrainChip Partners with MegaChips to Develop Next-Generation Edge-Based AI Solutions"
+        22 Novembre 2021
+        https://www.01net.it/brainchip-partners-with-megachips-to-develop-next-generation-edge-based-ai-solutions/
+        - "BrainChip Demonstrates Company's Event-Based AI Neural Processor at Embedded Vision Summit"
+        September 9, 2020
+        https://www.design-reuse.com/news/48608/brainchip-event-based-ai-neural-processor.html
+        - "BrainChip's Akida Development Environment Now Freely Available for Use"
+        https://www.design-reuse.com/news/47521/brainchip-machine-learning-framework-freely-available.html
+        - "NEUROMORPHIC CHIP MAKER TAKES AIM AT THE EDGE"
+        January 30, 2020 Michael Feldman
+        https://www.nextplatform.com/2020/01/30/neuromorphic-chip-maker-takes-aim-at-the-edge/
+        - "First Wave of Spiking Neural Network Hardware Hits"
+        September 11, 2018 Nicole Hemsoth
+        https://www.nextplatform.com/2018/09/11/first-wave-of-spiking-neural-network-hardware-hits
+        - "Neuromorphic Computing Gets a Lift"
+        Nitin Dahad, 08.01.18
+        https://www.eetimes.com/document.asp?doc_id=1333541
+        - "BrainChip Discloses SNN Chip"
+        Rick Merritt, 09.10.18
+        https://www.eetimes.com/document.asp?doc_id=1333677
+        - "BrainChip Appoints Former Exar CEO to Lead Company"
+        Peter Clarke, 10.10.16
+        https://www.eetimes.com/document.asp?doc_id=1330603
+
+
     - IBM, Corp.
     > SnapML
         - "IBM Speeds Up Machine Learning"
