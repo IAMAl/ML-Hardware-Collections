@@ -951,6 +951,10 @@ News Collection for Machine Learning Hardware
         - "Loihi: A Neuromorphic Manycore Processor with On-Chip Learning"
         16 January 2018
         https://ieeexplore.ieee.org/document/8259423
+    > Loihi2
+        - "Loihi 2 Advances Spiking R&D"
+        October 19, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6372&year=2021&tag=3
 
 
 ### GPU vs. FPGA vs. ASIC
