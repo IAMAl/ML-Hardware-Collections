@@ -9,11 +9,15 @@ News Collection for Machine Learning Hardware
         Rick Merritt, 02.11.19
         https://www.eetimes.com/document.asp?doc_id=1334301
 
-    - Ambarella
+    - Ambarella International LP
     https://www.ambarella.com/
+        - "Ambarella CV25 Camera SoC Basic Floorplan Analysis"
+        https://www.techinsights.com/ja/node/33183
         - "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs"
         Zacks Equity Research, Thu, July 1, 2021, 11:53 PM
         https://finance.yahoo.com/news/ambarellas-amba-cvflow-vision-processor-145302701.html
+        - "CV3 Family"
+        https://3vpstm1hc6e52739x31131p2-wpengine.netdna-ssl.com/wp-content/uploads/Ambarella_CV3_Product_Brief_13DEC2021.pdf
         - "Ambarella Joins ‘Open Vision’ ADAS Club"
         Junko Yoshida, 12.20.18
         https://www.eetimes.com/document.asp?doc_id=1334101
@@ -31,6 +35,12 @@ News Collection for Machine Learning Hardware
 
     - BrainChip Holdings Ltd.
     https://www.brainchipinc.com/
+        - "BrainChip Achieves Full Commercialization of Its AKD1000 AIoT Chip with Availability of Mini PCIe Boards in High Volume"
+        January 18, 2022
+        https://www.edge-ai-vision.com/2022/01/brainchip-achieves-full-commercialization-of-its-akd1000-aiot-chip-with-availability-of-mini-pcie-boards-in-high-volume/
+        - "BrainChip Partners with MegaChips to Develop Next-Generation Edge-Based AI Solutions"
+        22 Novembre 2021
+        https://www.01net.it/brainchip-partners-with-megachips-to-develop-next-generation-edge-based-ai-solutions/
         - "BrainChip Demonstrates Company's Event-Based AI Neural Processor at Embedded Vision Summit"
         September 9, 2020
         https://www.design-reuse.com/news/48608/brainchip-event-based-ai-neural-processor.html
