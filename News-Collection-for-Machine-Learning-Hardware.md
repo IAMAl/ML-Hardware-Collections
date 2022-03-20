@@ -474,7 +474,19 @@ News Collection for Machine Learning Hardware
         - "Tesla D1 Tackles AI Training"
         September 21, 2021
         https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6362&year=2021&tag=3
-
+        - "Tesla AI Day Perspectives"
+        Egil Juliussen  09.02.2021
+        https://www.eetimes.com/tesla-ai-day-perspectives/
+        - "How to Fix Tesla Autopilot"
+        06.08.2018 
+        https://www.eetimes.com/how-to-fix-tesla-autopilot/
+        - "Compute and Redundancy Solution for The Full Self-Driving Computer"
+        HotChips 31
+        https://old.hotchips.org/hc31/HC31_2.3_Tesla_Hotchips_ppt_Final_0817.pdf
+        - "Tesla Rolls Its Own Self-Driving Chip"
+        May 14, 2019
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6016&year=2019&tag=3
+        
     - ThinCI, Inc.
     https://thinci.com/
         - "Patents Assigned to THINCI INC."
@@ -1325,6 +1337,10 @@ News Collection for Machine Learning Hardware
     - "Huawei Ascends in AI Accelerators"
     May 14, 2019, Linley Gwennap
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6013&year=2019&tag=3
+
+    - "Tesla Rolls Its Own Self-Driving Chip"
+    May 14, 2019
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6016&year=2019&tag=3
 
     - "Fabu Aims to Deliver ADAS Processors"
     May 7, 2019, Mike Demler
