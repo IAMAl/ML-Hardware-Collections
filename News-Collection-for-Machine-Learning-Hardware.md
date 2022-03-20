@@ -68,6 +68,9 @@ News Collection for Machine Learning Hardware
         - "Cerebras brings wafer-size AI chips to medical data analysis"
         14 Mar 2022
         https://www.theregister.com/2022/03/14/cerebras_ai_chips/
+        - "CEREBRAS SHOWS OFF SCALE UP AI PERFORMANCE FOR BIG PHARMA AND BIG OIL"
+        March 2, 2022 Timothy Prickett Morgan
+        https://www.nextplatform.com/2022/03/02/cerebras-shows-off-scale-up-ai-performance-for-big-pharma-and-big-oil/
         - "Cerebras Systems Launches Software Development Kit for Wafer-Scale Applications"
         November 16, 2021
         https://insidehpc.com/2021/11/cerebras-systems-launches-software-development-kit-for-wafer-scale-applications/
@@ -141,6 +144,9 @@ News Collection for Machine Learning Hardware
 
     - Enflame
     https://www.enflame-tech.com
+        - "THE AI TRAINING CHIP TENCENT HAS AN EYE ON"
+        August 26, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/
         - "Enflame Stokes AI Acceleration"
         February 16, 2021
         https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6271&year=2021&tag=3
@@ -153,6 +159,9 @@ News Collection for Machine Learning Hardware
 
     - Esperanto Technologies Inc.
     https://www.esperanto.ai/
+        - "RISC-V UPSTART TARGETS ML INFERENCE PERFORMANCE, POWER EFFICIENCY"
+        September 20, 2021 Jeffrey Burt
+        https://www.nextplatform.com/2021/09/20/esperanto-chip-drives-ml-inference-performance-and-power-efficiency/
         - "ESPERANTO MAXES OUT RISC-V: High-End Maxion CPU Raises RISC-V Performance Bar."
         Linley Gwennap, December 10, 2018
         https://www.esperanto.ai/esperanto-maxes-out-risc-v-the-linley-group/
@@ -165,6 +174,9 @@ News Collection for Machine Learning Hardware
     - Graphcore, Ltd.
         - "Patents Assigned to Graphcore Limited"
         https://patents.justia.com/assignee/graphcore-limited
+        - "GRAPHCORE GOES FULL 3D WITH AI CHIPS"
+        March 3, 2022 Timothy Prickett Morgan
+        https://www.nextplatform.com/2022/03/03/graphcore-goes-3d-with-ai-chips-architects-10-exaflops-ultra-intelligent-machine/
         - "GRAPHCORE RIGHT ON THE MONEY IN FIRST MLPERF APPEARANCE"
         June 30, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/06/30/graphcore-right-on-the-money-in-first-mlperf-appearance/
@@ -177,6 +189,9 @@ News Collection for Machine Learning Hardware
         - "GRAPHCORE IPU PUT THROUGH THE SUPERCOMPUTING PACES"
         January 20, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/01/20/graphcore-ipu-put-through-the-supercomputing-paces/
+        - "Graphcore Doubles IPU Performance"
+        August 4, 2020
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6193&year=2020&tag=3
         - "British chip designer Graphcore unveils new AI processor more complex than Nvidia’s"
         James Vincent  Jul 15, 2020
         https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu
@@ -233,6 +248,9 @@ News Collection for Machine Learning Hardware
         - "WILL GROQ RE-EMERGE TO STEAL AI MARKET SHARE?"
         May 3, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/05/03/will-groq-re-emerge-to-steal-ai-market-share/
+        - "Groq Gets Connected"
+        November 10, 2020
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6233&year=2020&tag=3
         - "GROQ SHARES RECIPE FOR TSP NODES, SYSTEMS"
         September 29, 2020 Nicole Hemsoth
         https://www.nextplatform.com/2020/09/29/groq-shares-recipe-for-tsp-nodes-systems/
@@ -314,7 +332,7 @@ News Collection for Machine Learning Hardware
         January 28, 2019 Michael Feldman
         https://www.nextplatform.com/2019/01/28/ai-chip-startup-puts-inference-cards-on-the-table
 
-    -Hailo
+    - Hailo
     https://hailo.ai/
         - "Hailo Raises $60m for AI Chip Productization"
         Sally Ward-Foxton  03.05.2020
@@ -336,6 +354,9 @@ News Collection for Machine Learning Hardware
     https://www.mythic-ai.com/
         - "Patents Assigned to Mythic, Inc."
         https://patents.justia.com/assignee/mythic-inc
+        - "Mythic Unveils Analog-AI Product"
+        December 1, 2020
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6243&year=2020&tag=3
         - "Mythic adopts Mentor's Analog FastSPICE and Symphony platforms for AI processor design"
         https://www.design-reuse.com/news/47519/mythic-mentor-analog-fastspice-symphony-r-ai-processor-design.html
         - "MYTHIC MULTIPLIES IN A FLASH - Analog In-Memory Computing Eliminates DRAM Read/Write Cycles"
@@ -371,6 +392,9 @@ News Collection for Machine Learning Hardware
         - "SambaNova CEO: Pre- to Post-AI Transition Will Be ‘Bigger Than the Internet’"
         Sally Ward-Foxton  06.10.2021
         https://www.eetimes.com/sambanova-ceo-pre-to-post-ai-transition-will-be-bigger-than-the-internet/
+        - "SambaNova Takes On Nvidia’s DGX"
+        February 9, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6267&year=2021&tag=3
         - "WITH $1 BILLION IN HAND, WHAT’S NEXT FOR SAMBANOVA?"
         April 13, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/04/13/with-1-billion-in-hand-whats-next-for-sambanova/
@@ -643,6 +667,9 @@ News Collection for Machine Learning Hardware
         https://www.nextplatform.com/2021/05/21/google-hints-about-its-homegrown-tpuv4-ai-engines/
 
         > v3
+        - "Google Details TPUv3 Architecture"
+        September 1, 2020
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6203&year=2020&tag=3
         - "Tearing Apart Google’s TPU 3.0 AI Coprocessor"
         May 10, 2018 Paul Teich
         https://www.nextplatform.com/2018/05/10/tearing-apart-googles-tpu-3-0-ai-coprocessor
@@ -1068,7 +1095,6 @@ News Collection for Machine Learning Hardware
         https://www.nextplatform.com/2018/12/14/reading-between-the-mlperf-lines/
 
 
-
 ### Linley Processor Conference
     - 2019
         - "AI Takes Over Linley Fall Processor Conference"
@@ -1156,6 +1182,10 @@ News Collection for Machine Learning Hardware
     October 19, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6372&year=2021&tag=3
 
+    - "MLPerf Gets Tiny"
+    August 3, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6344&year=2021&tag=3
+
     - "Cerebras Doubles Down With WSE2"
     April 27, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6300&year=2021&tag=3
@@ -1167,6 +1197,26 @@ News Collection for Machine Learning Hardware
     - "Enflame Stokes AI Acceleration"
     February 16, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6271&year=2021&tag=3
+
+    - "SambaNova Takes On Nvidia’s DGX"
+    February 9, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6267&year=2021&tag=3
+
+    - "Mythic Unveils Analog-AI Product"
+    December 1, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6243&year=2020&tag=3
+
+    - "Groq Gets Connected"
+    November 10, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6233&year=2020&tag=3
+
+    - "Google Details TPUv3 Architecture"
+    September 1, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6203&year=2020&tag=3
+
+    - "Graphcore Doubles IPU Performance"
+    August 4, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6193&year=2020&tag=3
 
     - "Ceva SensPro Fuses AI and Vector DSP"
     April 21, 2020, Mike Demler
@@ -1235,10 +1285,6 @@ News Collection for Machine Learning Hardware
     - "Cerebras Breaks the Reticle Barrier"
     September 3, 2019, Mike Demler
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6062&year=2019&tag=3
-
-    - "MLPerf Gets Tiny"
-    August 3, 2021
-    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6344&year=2021&tag=3
 
     - "An Inside Look at AI Accelerators"
     August 6, 2019, Linley Gwennap
