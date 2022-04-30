@@ -11,6 +11,9 @@ News Collection for Machine Learning Hardware
 
     - Ambarella International LP
     https://www.ambarella.com/
+        - "Ambarella CV3 Joins Self-Driving Race"
+        February 15, 2022
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6420&year=2022&tag=3
         - "Ambarella CV25 Camera SoC Basic Floorplan Analysis"
         https://www.techinsights.com/ja/node/33183
         - "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs"
@@ -74,12 +77,12 @@ News Collection for Machine Learning Hardware
         - "Cerebras Systems Launches Software Development Kit for Wafer-Scale Applications"
         November 16, 2021
         https://insidehpc.com/2021/11/cerebras-systems-launches-software-development-kit-for-wafer-scale-applications/
-        - "Cerebras Performs Extreme Training"
-        September 21, 2021
-        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6363&year=2021&tag=3
         - "AI chip startup Cerebras Systems raises $250 million in funding"
         November 11, 2021
         https://www.reuters.com/technology/ai-chip-startup-cerebras-systems-raises-250-million-funding-2021-11-10/
+        - "Cerebras Performs Extreme Training"
+        September 21, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6363&year=2021&tag=3
         - "Cerebras Brings Its Wafer-Scale Engine AI System to the Cloud"
         September 16, 2021
         https://www.hpcwire.com/2021/09/16/cerebras-wafer-scale-engine-ai-system-is-now-available-in-the-cloud/
@@ -162,6 +165,9 @@ News Collection for Machine Learning Hardware
         - "RISC-V UPSTART TARGETS ML INFERENCE PERFORMANCE, POWER EFFICIENCY"
         September 20, 2021 Jeffrey Burt
         https://www.nextplatform.com/2021/09/20/esperanto-chip-drives-ml-inference-performance-and-power-efficiency/
+        - "Esperanto Minions Excel at AI"
+        December 22, 2020
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6251&year=2020&tag=3
         - "ESPERANTO MAXES OUT RISC-V: High-End Maxion CPU Raises RISC-V Performance Bar."
         Linley Gwennap, December 10, 2018
         https://www.esperanto.ai/esperanto-maxes-out-risc-v-the-linley-group/
@@ -352,11 +358,17 @@ News Collection for Machine Learning Hardware
 
     - Mythic, Inc.
     https://www.mythic-ai.com/
+        - "Mythic Enables Smaller PCIe Card"
+        March 22, 2022
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6432&year=2022&tag=3
         - "Patents Assigned to Mythic, Inc."
         https://patents.justia.com/assignee/mythic-inc
         - "Mythic Unveils Analog-AI Product"
         December 1, 2020
         https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6243&year=2020&tag=3
+        - "WILL ANALOG AI MAKE MYTHIC A UNICORN?"
+        June 12, 2019 Nicole Hemsoth
+        https://www.nextplatform.com/2019/06/12/will-analog-ai-make-mythic-a-unicorn/
         - "Mythic adopts Mentor's Analog FastSPICE and Symphony platforms for AI processor design"
         https://www.design-reuse.com/news/47519/mythic-mentor-analog-fastspice-symphony-r-ai-processor-design.html
         - "MYTHIC MULTIPLIES IN A FLASH - Analog In-Memory Computing Eliminates DRAM Read/Write Cycles"
@@ -386,6 +398,12 @@ News Collection for Machine Learning Hardware
 
     - SambaNova
     https://sambanova.ai/
+        - "ASPIRATION VERSUS ACTION FOR ENTERPRISE AI"
+        January 18, 2022 Nicole Hemsoth
+        https://www.nextplatform.com/2022/01/18/aspiration-versus-action-for-enterprise-ai/
+        - "GETTING AROUND THE GPT-3 WAITLIST, THE HARD(WARE) WAY"
+        October 20, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/10/20/getting-around-the-gpt-3-waitlist-the-hardware-way/
         - "ARGONNE CUTS THROUGH THE NOISE WITH SAMBANOVA SYSTEM"
         July 6, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/07/06/argonne-cuts-through-the-noise-with-sambanova-system/
@@ -421,6 +439,12 @@ News Collection for Machine Learning Hardware
         - "SiMa.ai Adopts Arm Technology to Deliver a Purpose-built Heterogeneous Machine Learning Compute Platform for the Embedded Edge"
         https://www.design-reuse.com/news/49030/sima-ai-arm-heterogeneous-machine-learning-soc-platform.html
 
+    - SimpleMachines, Inc.
+    https://www.simplemachines.ai
+        - "SimpleMachines Enables Flexible AI"
+        January 5, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6254&year=2021&tag=3
+
     - Syntiant
     https://www.syntiant.com/
         - "Patents Assigned to Syntiant"
@@ -428,6 +452,9 @@ News Collection for Machine Learning Hardware
         - "Syntiant Grows Into Computer Vision"
         November 9, 2021
         https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6379&year=2021&tag=3
+        - "Syntiant NDP120 Sharpens Its Hearing"
+        April 13, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6294&year=2021&tag=3
         - "Syntiant: Business as Usual in the AI Chip Industry"
         https://www.eetimes.com/syntiant-business-as-usual-in-the-ai-chip-industry/
         - "Syntiant NDP101 Microprocessor Receives Linley Group's Analysts' Choice Award"
@@ -506,6 +533,9 @@ News Collection for Machine Learning Hardware
         - "FURTHER FUNDING FLOWS TO CANADIAN AI INFERENCE HARDWARE"
         July 20, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/07/20/further-funding-flows-to-canadian-ai-inference-hardware/
+        - "Untether Delivers At-Memory AI"
+        November 2, 2020
+        https://www.linleygroup.com/mpr/article.php?id=12385
         - "Startup Taps AI to Monitor Chips"
         Rick Merritt, 04.02.19
         https://www.eetimes.com/document.asp?doc_id=1334514
@@ -519,6 +549,9 @@ News Collection for Machine Learning Hardware
         - "MIPS in Hand, AI Chip Startup Wave Computing Delivers First Silicon"
         June 13, 2018 Nicole Hemsoth
         https://www.nextplatform.com/2018/06/13/mips-in-hand-ai-chip-startup-wave-computing-delivers-first-silicon
+        - "AI CHIP STARTUP MAKES TRAINING TO EDGE INFERENCE TRANSITION"
+        June 12, 2019 Nicole Hemsoth
+        https://www.nextplatform.com/2019/06/12/ai-chip-startup-makes-training-to-edge-inference-transition/
         - "AI Startup Wave Computing To Buy MIPS"
         Junko Yoshida, 06.13.18
         https://www.eetimes.com/document.asp?doc_id=1333380
@@ -605,12 +638,18 @@ News Collection for Machine Learning Hardware
         - "A LOOK AT BAIDU’S INDUSTRIAL-SCALE GPU TRAINING ARCHITECTURE"
         June 25, 2021 Nicole Hemsoth
         https://www.nextplatform.com/2021/06/25/a-look-at-baidus-industrial-scale-gpu-training-architecture/
+        - "Baidu Debuts First AI Accelerator"
+        September 15, 2020
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6212&year=2020&tag=3
         - "Baidu Accelerator Rises in AI"
         Rick Merritt, 07.06.18
         https://www.eetimes.com/document.asp?doc_id=1333449
         - "Baidu Sheds Precision Without Paying Deep Learning Accuracy Cost"
         October 11, 2017 Nicole Hemsoth
         https://www.nextplatform.com/2017/10/11/baidu-sheds-precision-without-paying-deep-learning-accuracy-cost
+        - "AN EARLY LOOK AT BAIDU’S CUSTOM AI AND ANALYTICS PROCESSOR"
+        August 22, 2017 Nicole Hemsoth
+        https://www.nextplatform.com/2017/08/22/first-look-baidus-custom-ai-analytics-processor/
         - "Baidu Targets Deep Learning Scalability Challenges"
         February 22, 2017 Nicole Hemsoth 
         https://www.nextplatform.com/2017/02/22/baidu-spots-deep-learning-scalability-challenges-horizon
@@ -634,12 +673,18 @@ News Collection for Machine Learning Hardware
         https://www.eetimes.com/document.asp?doc_id=1335109
 
     - Facebook
+        - "INSIDE FACEBOOK’S FUTURE MACHINE LEARNING PLATFORMS"
+        March 15, 2019 Timothy Prickett Morgan
+        https://www.nextplatform.com/2019/03/15/inside-facebooks-future-machine-learning-platforms/
         - "Facebook Sounds Opening Bell for AI Inference Hardware Makers"
         September 13, 2018 Nicole Hemsoth
         https://www.nextplatform.com/2018/09/13/facebook-sounds-opening-bell-for-ai-inference-hardware-makers
         - "Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective"
         February 24, 2018
         https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective
+        - "FACEBOOK’S EXPANDING MACHINE LEARNING INFRASTRUCTURE"
+        January 8, 2018 Nicole Hemsoth
+        https://www.nextplatform.com/2018/01/08/facebooks-expanding-machine-learning-infrastructure/
     
     - Flex Logix
         - "New Architectures Bringing AI to the Edge"
@@ -659,6 +704,9 @@ News Collection for Machine Learning Hardware
         - "GOOGLE CLOUD MAINSTREAMS AI WITH VERTEX PLATFORM"
         May 20, 2021 Jeffrey Burt
         https://www.nextplatform.com/2021/05/20/google-cloud-mainstreams-ai-with-vertex-platform/
+        - "GOOGLE ROUNDS OUT INSIGHT INTO TPU ARCHITECTURE AND INFERENCE"
+        September 19, 2018 Nicole Hemsoth
+        https://www.nextplatform.com/2018/09/19/google-rounds-out-insight-into-tpu-architecture-and-inference/
 
     > Edge TPU
         - "Google unveils new tools to bolster AI hardware development"
@@ -776,6 +824,9 @@ News Collection for Machine Learning Hardware
         - "INTEL HEDGES ITS AI BETS WITH HABANA LABS BUY"
         December 17, 2019 Michael Feldman
         https://www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/
+        - "AI CHIP STARTUP RELEASES TRAINING ACCELERATOR TO CHALLENGE GPUS"
+        June 17, 2019 Michael Feldman
+        https://www.nextplatform.com/2019/06/17/ai-chip-startup-releases-training-accelerator-to-challenge-gpus/
         - "Intel Acquires Habana Labs for $2bn"
         Sally Ward-Foxton  12.16.2019
         https://www.eetimes.com/intel-acquires-habana-labs-for-2bn/
@@ -827,6 +878,9 @@ News Collection for Machine Learning Hardware
         https://www.eetimes.com/document.asp?doc_id=1328792
 
     - MediaTek
+        - "Dimensity 8100 Raises AI Bar"
+        March 22, 2022
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6434&year=2022&tag=3
         - "MediaTek Pushes AI to the Edge"
         Junko Yoshida, 01.12.18
         https://www.eetimes.com/document.asp?doc_id=1332840
@@ -892,12 +946,20 @@ News Collection for Machine Learning Hardware
         Nitin Dahad, 09.16.19
         https://www.eetimes.com/document.asp?doc_id=1335112
 
+    - Tencent
+        - "THE AI TRAINING CHIP TENCENT HAS AN EYE ON"
+        August 26, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/08/26/the-ai-training-chip-tencent-has-an-eye-on/
+
     - Visteon Corp.
         - "Visteon Works with DNN Vanguard DeepScale"
         Junko Yoshida, 01.09.18
         https://www.eetimes.com/document.asp?doc_id=1332816
 
     - Xilinx, Inc.
+        - "SOC-DRIVEN INFERENCE DATACENTERS BECOMING NEW REALITY"
+        May 5, 2021 Nicole Hemsoth
+        https://www.nextplatform.com/2021/05/05/soc-driven-inference-datacenters-becoming-new-reality/
         - "FPGA Maker Snaps Up Deep Learning Chip Startup"
         July 18, 2018 Nicole Hemsoth
         https://www.nextplatform.com/2018/07/18/fpga-maker-snaps-up-deep-learning-chip-startup
@@ -1090,6 +1152,10 @@ News Collection for Machine Learning Hardware
 
 
 ### MLPerf
+    - 2022
+        - "THE PERFORMANCE OF MLPERF AS A UBIQUITOUS BENCHMARK IS LACKING"
+        April 8, 2022 Jeffrey Burt
+        https://www.nextplatform.com/2022/04/08/the-performance-of-mlperf-as-a-ubiquitous-benchmark-is-lacking/
     - 2021
         - "MLPerf Gets Tiny"
         August 3, 2021
@@ -1097,6 +1163,15 @@ News Collection for Machine Learning Hardware
         - "WHY THE MLPERF BENCHMARK IS GOOD FOR AI, AND GOOD FOR YOU"
         August 10, 2021 Timothy Prickett Morgan
         https://www.nextplatform.com/2021/08/10/why-the-mlperf-benchmark-is-good-for-ai-and-good-for-you/
+        - "MLPerf Gets Tiny"
+            August 3, 2021
+            https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6344&year=2021&tag=3
+        - "Training Competitors Battle on MLPerf"
+        July 20, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6337&year=2021&tag=3
+        - "MLPerf 1.0 Adds Power Measurements"
+        June 8, 2021
+        https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6318&year=2021&tag=3
     - 2019
         - "MLPERF INFERENCE RESULTS OFFER GLIMPSE INTO AI CHIP PERFORMANCE"
         November 6, 2019 Nicole Hemsoth
@@ -1105,6 +1180,7 @@ News Collection for Machine Learning Hardware
         - "EADING BETWEEN THE MLPERF LINES"
         December 14, 2018 Nicole Hemsoth
         https://www.nextplatform.com/2018/12/14/reading-between-the-mlperf-lines/
+
 
 
 ### Linley Processor Conference
@@ -1178,6 +1254,38 @@ News Collection for Machine Learning Hardware
 
 
 ### Linley Newsletter
+    - "FuriosaAI Seeks Data-Center Efficiency"
+    March 29, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6437&year=2022&tag=3
+
+    - "Dimensity 8100 Raises AI Bar"
+    March 22, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6434&year=2022&tag=3
+
+    - "Graphcore First With WoW"
+    March 22, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6433&year=2022&tag=3
+
+    - "Mythic Enables Smaller PCIe Card"
+    March 22, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6432&year=2022&tag=3
+
+    - "LeapMind Scales Binary DLA"
+    February 22, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6422&year=2022&tag=3
+
+    - "Ambarella CV3 Joins Self-Driving Race"
+    February 15, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6420&year=2022&tag=3
+
+    - "Vsora Shifts Gears, Offers AI Chips"
+    February 15, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6418&year=2022&tag=3
+
+    - "Ceva Tackles Unstructured Sparsity"
+    February 1, 2022
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6415&year=2022&tag=3
+
     - "Syntiant Grows Into Computer Vision"
     November 9, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6379&year=2021&tag=3
@@ -1190,17 +1298,57 @@ News Collection for Machine Learning Hardware
     September 21, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6363&year=2021&tag=3
 
+    - "Tesla D1 Tackles AI Training"
+    September 21, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6362&year=2021&tag=3
+
     - "Loihi 2 Advances Spiking R&D"
     October 19, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6372&year=2021&tag=3
+
+    - "Edged.AI Offers Low-Latency IP"
+    August 10, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6346&year=2021&tag=3
 
     - "MLPerf Gets Tiny"
     August 3, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6344&year=2021&tag=3
 
+    - "Training Competitors Battle on MLPerf"
+    July 20, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6337&year=2021&tag=3
+
+    - "New AI Engines Give Versal an Edge"
+    June 29, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6329&year=2021&tag=3
+
+    - "MLPerf 1.0 Adds Power Measurements"
+    June 8, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6318&year=2021&tag=3
+
     - "Cerebras Doubles Down With WSE2"
     April 27, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6300&year=2021&tag=3
+
+    - "EdgeCortix IP Lowers AI Latency"
+    April 27, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6301&year=2021&tag=3
+
+    - "Innatera’s Spiking Neural Processor"
+    April 27, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6302&year=2021&tag=3
+
+    - "Syntiant NDP120 Sharpens Its Hearing"
+    April 13, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6294&year=2021&tag=3
+
+    - "IBM Demonstrates New AI Data Types"
+    April 6, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6290&year=2021&tag=3
+
+    - "Lightmatter Shines in Data-Center AI"
+    March 30, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6288&year=2021&tag=3
 
     - "Deep Vision Optimizes AI Data Flow"
     March 9, 2021
@@ -1210,25 +1358,101 @@ News Collection for Machine Learning Hardware
     February 16, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6271&year=2021&tag=3
 
+    - "Ceva SensPro2 Doubles AI Throughput"
+    February 9, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6268&year=2021&tag=3
+
     - "SambaNova Takes On Nvidia’s DGX"
     February 9, 2021
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6267&year=2021&tag=3
+
+    - "SimpleMachines Enables Flexible AI"
+    January 5, 2021
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6254&year=2021&tag=3
+
+    - "Esperanto Minions Excel at AI"
+    December 22, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6251&year=2020&tag=3
 
     - "Mythic Unveils Analog-AI Product"
     December 1, 2020
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6243&year=2020&tag=3
 
+    - "Flex Logix Shows First AI Chip"
+    November 17, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6236&year=2020&tag=3
+
     - "Groq Gets Connected"
     November 10, 2020
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6233&year=2020&tag=3
+
+    - "Ambient’s Analog Cuts AI Power"
+    November 3, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6232&year=2020&tag=3
+
+    - "Deep AI Retrains Networks at the Edge"
+    November 3, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6231&year=2020&tag=3
+
+    - "Untether Delivers At-Memory AI"
+    November 3, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6230&year=2020&tag=3
+
+    - "Think Silicon Spins AI Accelerator"
+    October 27, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6228&year=2020&tag=3
+
+    - "Coherent Logix Configures Edge AI"
+    October 20, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6226&year=2020&tag=3
+
+    - "Lightmatter Realizes Photonic AI"
+    September 22, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6213&year=2020&tag=3
+
+    - "Baidu Debuts First AI Accelerator"
+    September 15, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6212&year=2020&tag=3
+
+    - "Blaize Ignites Edge-AI Performance"
+    September 8, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6208&year=2020&tag=3
 
     - "Google Details TPUv3 Architecture"
     September 1, 2020
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6203&year=2020&tag=3
 
+    - "Chipmakers Expand Die for AI"
+    August 11, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6196&year=2020&tag=3
+
     - "Graphcore Doubles IPU Performance"
     August 4, 2020
     https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6193&year=2020&tag=3
+
+    - "GlobalFoundries Wins AI Chips"
+    July 28, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6189&year=2020&tag=3
+
+    - "Ethos-N78 Boosts AI Efficiency"
+    June 2, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6166&year=2020&tag=3
+
+    - "Sima Seeks Greener AI"
+    May 19, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6161&year=2020&tag=3
+
+    - "Helio P95 Boosts AI and Graphics"
+    May 12, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6159&year=2020&tag=3
+
+    - "LeapMind Jumps on Binary Networks"
+    May 12, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6158&year=2020&tag=3
+
+    - "Perceive Reduces AI to a Math Problem"
+    May 12, 2020
+    https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6160&year=2020&tag=3
 
     - "Ceva SensPro Fuses AI and Vector DSP"
     April 21, 2020, Mike Demler
@@ -1384,6 +1608,46 @@ News Collection for Machine Learning Hardware
 
 
 ### Microprocessor Report (MPR)
+    - "New AI Engines Give Versal an Edge"
+    June 28, 2021
+    https://www.linleygroup.com/mpr/article.php?id=12493
+
+    - "Syntiant NDP120 Sharpens Its Hearing"
+    April 12, 2021
+    https://www.linleygroup.com/mpr/article.php?id=12455
+
+    - "Ceva SensPro2 Doubles AI Throughput"
+    February 8, 2021
+    https://www.linleygroup.com/mpr/article.php?id=12426
+
+    - "Esperanto Minions Excel at AI"
+    December 21, 2020
+    https://www.linleygroup.com/mpr/article.php?id=12407
+
+    - "Startup Nears Tapeout of Thousand-Core Accelerator"
+    December 21, 2020
+    https://www.linleygroup.com/mpr/article.php?id=12407
+
+    - "Esperanto Minions Excel at AI"
+    December 21, 2020
+    https://www.linleygroup.com/mpr/article.php?id=12407
+
+    - "Untether Delivers At-Memory AI"
+    November 2, 2020
+    https://www.linleygroup.com/mpr/article.php?id=12385
+
+    - "Blaize Ignites Edge-AI Performance"
+    September 7, 2020
+    https://www.linleygroup.com/mpr/article.php?id=12362
+
+    - "GlobalFoundries Wins AI Chips"
+    July 27, 2020
+    https://www.linleygroup.com/mpr/article.php?id=12341
+
+    - "Tenstorrent Scales AI Performance"
+    April 13, 2020
+    https://www.linleygroup.com/mpr/article.php?id=12287
+
     - "Groq Rocks Neural Networks"
     January 6, 2020, Linley Gwennap
     https://www.linleygroup.com/mpr/article.php?id=12245
