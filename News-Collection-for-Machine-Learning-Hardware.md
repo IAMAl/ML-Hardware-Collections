@@ -439,7 +439,7 @@ News Collection for Machine Learning Hardware
         - "SiMa.ai Adopts Arm Technology to Deliver a Purpose-built Heterogeneous Machine Learning Compute Platform for the Embedded Edge"
         https://www.design-reuse.com/news/49030/sima-ai-arm-heterogeneous-machine-learning-soc-platform.html
 
-    - SimpleMachines, Inc.
+    - <CLOSED> SimpleMachines, Inc.
     https://www.simplemachines.ai
         - "SimpleMachines Enables Flexible AI"
         January 5, 2021
