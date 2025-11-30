@@ -3,7 +3,7 @@
 News Collection for Machine Learning Hardware
 
 ### Startup Companies
-    - AIStorm
+    - <Privately Held> AIStorm
     https://aistorm.ai/
         - "Startup Accelerates AI at the Sensor"
         Rick Merritt, 02.11.19
@@ -25,12 +25,12 @@ News Collection for Machine Learning Hardware
         Junko Yoshida, 12.20.18
         https://www.eetimes.com/document.asp?doc_id=1334101
 
-    - Areanna
+    - <CLOSED> Areanna
         - "Startup Runs AI in Novel SRAM"
         Rick Merritt  07.22.2019
         https://www.eetimes.com/startup-runs-ai-in-novel-sram/
 
-    - Bitmain
+    - <Privately Held> Bitmain
     https://www.bitmain.com/
         - "Bitcoin ASIC Maker Bets on AI"
         Rick Merritt, 10.25.17
@@ -123,7 +123,7 @@ News Collection for Machine Learning Hardware
         Rick Merritt, 08.19.19
         https://www.eetimes.com/document.asp?doc_id=1335043
 
-    - Cornami, Inc.
+    - <Privately Held> Cornami, Inc.
     https://cornami.com
         - "Patents Assigned to Cornami, Inc."
         https://patents.justia.com/assignee/cornami-inc
@@ -131,13 +131,13 @@ News Collection for Machine Learning Hardware
         November 1, 2018
         https://www.zdnet.com/article/ai-startup-cornami-reveals-details-of-neural-net-chip/
 
-    - Darwin AI
+    - <Acquired/Merged> Darwin AI
     https://www.darwinai.ca/research.html
         - "Self-Creating Neural Networks That Explain Themselves"
         September 18, 2018 Nicole Hemsoth
         https://www.nextplatform.com/2018/09/18/toward-self-creating-neural-networks-that-explain-themselves
     
-    - DeepVision
+    - <Privately Held> DeepVision
     https://deepvision.io
         - "Deep Vision Optimizes AI Data Flow"
         March 9, 2021
@@ -145,7 +145,7 @@ News Collection for Machine Learning Hardware
         - "AI Startup Deep Vision Powers AI Innovation at the Edge"
         https://www.design-reuse.com/news/49035/ai-startup-deep-vision.html
 
-    - Enflame
+    - <Privately Held> Enflame
     https://www.enflame-tech.com
         - "THE AI TRAINING CHIP TENCENT HAS AN EYE ON"
         August 26, 2021 Nicole Hemsoth
@@ -154,13 +154,13 @@ News Collection for Machine Learning Hardware
         February 16, 2021
         https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6271&year=2021&tag=3
     
-    - eSilicon
+    - <Acquired/Merged> eSilicon
     https://www.esilicon.com
         - "eSilicon tapes out deep learning ASIC"
         September 13, 2017
         https://www.esilicon.com/company/news-events/press-releases/esilicon-tapes-deep-learning-asic/
 
-    - Esperanto Technologies Inc.
+    - <CLOSED>> Esperanto Technologies Inc.
     https://www.esperanto.ai/
         - "RISC-V UPSTART TARGETS ML INFERENCE PERFORMANCE, POWER EFFICIENCY"
         September 20, 2021 Jeffrey Burt
@@ -177,7 +177,7 @@ News Collection for Machine Learning Hardware
         Rick Merritt, 08.20.18
         https://www.eetimes.com/document.asp?doc_id=1333607
 
-    - Graphcore, Ltd.
+    - <Acquired/Merged> Graphcore, Ltd.
         - "Patents Assigned to Graphcore Limited"
         https://patents.justia.com/assignee/graphcore-limited
         - "GRAPHCORE GOES FULL 3D WITH AI CHIPS"
@@ -235,7 +235,7 @@ News Collection for Machine Learning Hardware
         Peter Clarke, 11.01.16
         https://www.eetimes.com/document.asp?doc_id=1330739
 
-    - GreenWaves Technologies
+    - <CLOSED> GreenWaves Technologies
     https://greenwaves-technologies.com/
         - "GreenWaves’ Ultra-Low Power GAP9 IoT Apps Processor Suits Intelligence at the Edge"
         RICH NASS, JANUARY 21, 2020
@@ -289,7 +289,7 @@ News Collection for Machine Learning Hardware
         Published Thu, Apr 20 2017
         https://www.cnbc.com/2017/04/20/ex-googlers-left-secretive-ai-unit-to-form-groq-with-palihapitiya.html
 
-    - Gyrfalcon Technology, Inc.
+    - <Privately Held> Gyrfalcon Technology, Inc.
     https://www.gyrfalcontech.ai
         - "Patents Assigned to Gyrfalcon Technology, Inc."
         https://patents.justia.com/assignee/gyrfalcon-technology-inc
@@ -314,7 +314,7 @@ News Collection for Machine Learning Hardware
         Submitted on 30 Apr 2018
         https://arxiv.org/abs/1805.00361
 
-    - Habana Labs
+    - <Acquired/Merged> Habana Labs
     https://habana.ai/
         - "INTEL HEDGES ITS AI BETS WITH HABANA LABS BUY"
         December 17, 2019 Michael Feldman
@@ -338,7 +338,7 @@ News Collection for Machine Learning Hardware
         January 28, 2019 Michael Feldman
         https://www.nextplatform.com/2019/01/28/ai-chip-startup-puts-inference-cards-on-the-table
 
-    - Hailo
+    - <Privately Held> Hailo
     https://hailo.ai/
         - "Hailo Raises $60m for AI Chip Productization"
         Sally Ward-Foxton  03.05.2020
@@ -349,14 +349,14 @@ News Collection for Machine Learning Hardware
         Sally Ward-Foxton  08.29.2019
         https://www.eetimes.com/details-of-hailo-ai-edge-accelerator-emerge/
 
-    - InCore
+    - <Privately Held> InCore
         - "Going beyond RISC-V General Purpose Solutions"
         https://content.riscv.org/wp-content/uploads/2018/07/0930-18.07.18-Neel-Gala-InCore-Semiconductors.pdf
         - "India Startup Preps RISC-V, AI Cores"
         Rick Merritt, 08.07.18
         https://www.eetimes.com/document.asp?doc_id=1333565
 
-    - Mythic, Inc.
+    - <Privately Held> Mythic, Inc.
     https://www.mythic-ai.com/
         - "Mythic Enables Smaller PCIe Card"
         March 22, 2022
@@ -378,7 +378,7 @@ News Collection for Machine Learning Hardware
         August 23, 2018 Nicole Hemsoth
         https://www.nextplatform.com/2018/08/23/a-mythic-approach-to-deep-learning-inference
 
-    - NeuroBlade
+    - <Acquired/Merged> NeuroBlade
     https://www.neuroblade.ai/
         - "AI Startup Preps Inference Chip"
         Rick Merritt, 06.26.19
@@ -445,7 +445,7 @@ News Collection for Machine Learning Hardware
         January 5, 2021
         https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6254&year=2021&tag=3
 
-    - Syntiant
+    - <Privately Held> Syntiant
     https://www.syntiant.com/
         - "Patents Assigned to Syntiant"
         https://patents.justia.com/assignee/syntiant
@@ -514,7 +514,7 @@ News Collection for Machine Learning Hardware
         May 14, 2019
         https://www.linleygroup.com/newsletters/newsletter_detail.php?num=6016&year=2019&tag=3
         
-    - ThinCI, Inc.
+    - Blaize (formerly ThinCI, Inc.)
     https://thinci.com/
         - "Patents Assigned to THINCI INC."
         https://patents.justia.com/assignee/thinci-inc
@@ -572,7 +572,7 @@ News Collection for Machine Learning Hardware
         https://siliconangle.com/2016/07/21/wave-computing-rolls-out-plans-for-fast-deep-learning-computers
 
 ### Major Companies
-    - Achronix
+    - <Acquired/Merged> Achronix
         - "Achronix Adds Machine Learning to eFPGA"
         Junko Yoshida, 12.04.18
         https://www.eetimes.com/document.asp?doc_id=1334040
@@ -686,7 +686,7 @@ News Collection for Machine Learning Hardware
         January 8, 2018 Nicole Hemsoth
         https://www.nextplatform.com/2018/01/08/facebooks-expanding-machine-learning-infrastructure/
     
-    - Flex Logix
+    - <Acquired/Merged> Flex Logix
         - "New Architectures Bringing AI to the Edge"
         Dylan McGrath, 10.31.18
         https://www.eetimes.com/document.asp?doc_id=1333920
@@ -801,7 +801,7 @@ News Collection for Machine Learning Hardware
         Sally GaoPosted on February 5, 2019
         https://blog.huawei.com/2019/02/05/activating-ai-power-with-the-ascend-chipset/
 
-    - Imagination Technologies
+    - <Privately Held> Imagination Technologies
         - "Neural Network Accelerator Boasts Programmable Extensibility"
         Nitin Dahad, 12.06.18
         https://www.eetimes.com/document.asp?doc_id=1334051
